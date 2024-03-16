@@ -1,0 +1,30 @@
+title: My Site
+description: My very nice site
+
+url: 'https://nathank.online'
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
+
+exclude: 
+  - .gitignore
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - yarn.lock
+  - node_modules
+
+include:
+  - _pages
+  - node_modules/tailwindcss
+
+#########################################
+# CUSTOM BELOW
