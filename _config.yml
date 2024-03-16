@@ -12,6 +12,7 @@ postcss:
 
 exclude: 
   - .gitignore
+  - .github
   - docker-compose.yml
   - Gemfile
   - Gemfile.lock
