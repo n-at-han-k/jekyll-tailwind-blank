@@ -1,7 +1,8 @@
 title: My Site
 description: My very nice site
 
-url: 'https://nathank.online'
+url: 'https://n-at-han-k.github.io'
+baseurl: '/jekyll-tailwind-blank'
 
 plugins:
   - jekyll-postcss
