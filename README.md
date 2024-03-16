@@ -13,4 +13,17 @@ Alternatively, just clone this repo and start adding your files.
 ```sh
 git clone https://github.com/n-at-han-k/jekyll-tailwind-blank.git
 ```
-[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/Hyde/watchers)
+## GitHub Pages
+To deploy to GitHub pages you must set deployment source actions to "GitHub Actions", as seen below.
+
+If you dont, then your workflow file WILL NOT WORK!
+Don't ask me why, it's the only way, trust me.
+If someone else has a suggestion then contact me.
+
+![screenshot](assets/img/screenshot1.jpeg)
+
+### Deploying
+1. Go to your repo's Actions page
+2. Select the deployment workflow
+3. Run the workflow
+![screenshot](assets/img/screenshot2.jpeg
