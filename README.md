@@ -26,4 +26,5 @@ If someone else has a suggestion then contact me.
 1. Go to your repo's Actions page
 2. Select the deployment workflow
 3. Run the workflow
-![screenshot](assets/img/screenshot2.jpeg
+
+![screenshot](assets/img/screenshot2.jpeg)
