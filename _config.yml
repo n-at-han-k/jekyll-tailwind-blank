@@ -25,7 +25,6 @@ exclude:
 
 include:
   - _pages
-  - node_modules/tailwindcss
 
 #########################################
 # CUSTOM BELOW
