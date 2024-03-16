@@ -5,8 +5,8 @@ module.exports = {
     './_pages/**/*.html',
     './_pages/**/*.md',
     './_posts/*.md',
-    './*.md',
-    './*.html',
+    './**/*.md',
+    './**/*.html',
   ],
   theme: {
     extend: {},
